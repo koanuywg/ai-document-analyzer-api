@@ -1,0 +1,20 @@
+# Biến môi trường bí mật (BẮT BUỘC KHÔNG ĐƯỢC PUSH LÊN GIT)
+.env
+
+# Python cache & compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# IDE configs
+.vscode/
+.idea/
+
+# Database files
+*.db
+*.sqlite3
